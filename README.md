@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/bbenbboy/9.-intro-component-with-signup-form-master.git)
+- Live Site URL: [Live Site](https://9-intro-component-with-signup-form-master.vercel.app/)
 
 ## My process
 
