@@ -58,7 +58,9 @@ Input tag with JS
 
 ### Useful resources
 
-None
+- He provided a clean code for Javascript it is a little more complicated but if you read and understand it, it is mean you are evolving.
+- You can copy his code, I also copy his code haha but you should understand what the code does.
+- This guy - [Github](https://github.com/fxneves/intro-component-with-signup-form)
 
 ## Author
 
